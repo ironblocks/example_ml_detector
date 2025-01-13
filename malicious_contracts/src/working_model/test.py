@@ -25,6 +25,5 @@ def run():
 
         print("File name:", filename, "Result:", predict([clean_opcode])[0])
 
-# Run reads from the test_opcodes directory, pro
 if __name__ == '__main__':
     run()
