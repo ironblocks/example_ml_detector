@@ -1,5 +1,3 @@
-# Malicious Contracts Detector
-
 ## Environment Setup (macOS)
 
 ```bash
