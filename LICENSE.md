@@ -1,4 +1,4 @@
-IRONBLOCKS – "ML DETECTOR" SOURCE LICENSE AGREEMENT
+IRONBLOCKS – "Smart Contracts ML Detector" SOURCE LICENSE AGREEMENT
 
 This Source License Agreement (the “Agreement”) governs your (as an individual or on behalf of an organization) use of Ironblocks Ltd.'s ("Ironblocks") proprietary "ML DETECTOR" software, including, without limitation, any underlying object and source code, data, algorithm, utility and related documentation (collectively, the “Software”).
 
